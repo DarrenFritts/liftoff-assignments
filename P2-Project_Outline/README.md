@@ -42,20 +42,3 @@ HTML/CSS/JS/Bootstrap
 ### Project Tracker
 https://trello.com/invite/b/aW2bM4ts/4bc1141229a4c46805c5d36302a06a9e/liftoff-project
 
-=======
-Submission Instructions
-Overview
-Include overview here
-
-Features
-Include Features here
-
-Technologies
-Include Technologies here
-
-What I'll Have to Learn
-Include what you will need to learn here
-
-Project Tracker
-Link to your Trello board here
->>>>>>> ecd38263d3f468057f4c49571a233244b453b169
